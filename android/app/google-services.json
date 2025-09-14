@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617007604426",
+    "firebase_url": "https://companion-b3126-default-rtdb.firebaseio.com",
+    "project_id": "companion-b3126",
+    "storage_bucket": "companion-b3126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617007604426:android:79311374ac4eef39b10a33",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8ozwq6aWr5eTvigy1EYbmbotbS5Lms4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
